@@ -1,4 +1,5 @@
-# This is a nymber guessing game having following features.
+# Number Guessing Game
+This is a number guessing game having following features.
 <br>
 1. Allow difficulty level from easy to difficult<br>
 2. Counting no of attempts<br>
